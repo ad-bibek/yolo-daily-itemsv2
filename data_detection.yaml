@@ -1,0 +1,20 @@
+# Detection Dataset — Daily Items v3
+path: ./dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 11
+
+names:
+  0: bottle
+  1: cup
+  2: eyewear
+  3: glass
+  4: keys
+  5: pen
+  6: phone
+  7: scissors
+  8: shoes
+  9: wallet
+  10: watch
