@@ -65,7 +65,7 @@ streamlit run app/streamlit_app.py
 ## Results
 | Model | mAP50 |
 |---|---|
-| Detection (YOLOv8s) | TBD |
-| Segmentation (YOLOv8s-seg) | TBD |
+| Detection (YOLOv8s) | 0.869 |
+| Segmentation (YOLOv8s-seg) | 0.873 |
 
 "Dataset available on Roboflow: https://app.roboflow.com/bibeks-workspace-zf5a0/yolo-daily-items-v2/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true"
