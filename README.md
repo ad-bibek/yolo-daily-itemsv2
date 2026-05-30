@@ -67,3 +67,5 @@ streamlit run app/streamlit_app.py
 |---|---|
 | Detection (YOLOv8s) | TBD |
 | Segmentation (YOLOv8s-seg) | TBD |
+
+"Dataset available on Roboflow: https://app.roboflow.com/bibeks-workspace-zf5a0/yolo-daily-items-v2/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true"
